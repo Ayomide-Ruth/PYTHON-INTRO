@@ -1,0 +1,401 @@
+startup_id,company_name,sector,city,state,founding_year,funding_stage,amount_raised_usd,num_employees,revenue_monthly_ngn,investor_type,gender_founder
+NG-5001,Questzone,Edtech,Lagos,Lagos,2022,Series A,6310400,101,57166000,VC Fund,Female
+NG-5002,Showgo,Media & Entertainment,Abuja,FCT,2021,Series A,7997600,116,93853000,Corporate,Female
+NG-5003,Studyfy,Edtech,Ibadan,Oyo,2022,Seed,1115400,15,4315000,Angel,Male
+NG-5004,Dawapath,Healthtech,Lagos,Lagos,2016,Pre-seed,12700,10,5123000,VC Fund,Male
+NG-5005,Coreapp,SaaS,Lagos,Lagos,2021,Pre-seed,61600,12,2415000,Crowdfunding,Mixed (Co-founders)
+NG-5006,Crophub,Agritech,Lagos,Lagos,2018,Series A,1685900,20,11247000,Angel,Male
+NG-5007,Cowryapp,Fintech,Abuja,FCT,2022,Seed,1331300,18,2160000,VC Fund,Male
+NG-5008,Dropup,Logistics,Lagos,Lagos,2019,Pre-seed,64400,5,2132000,Angel,Mixed (Co-founders)
+NG-5009,Tradeio,E-commerce,Lagos,Lagos,2016,Pre-seed,126100,11,10735000,VC Fund,Mixed (Co-founders)
+NG-5010,Cashhub,Fintech,Abuja,FCT,2023,Seed,1237500,5,2474000,VC Fund,Male
+NG-5011,Paylabs,Fintech,Lagos,Lagos,2022,Seed,967800,11,5060000,VC Fund,Male
+NG-5012,Seedtech,Agritech,Lagos,Lagos,2023,Series B,13915700,103,21901000,Corporate,Male
+NG-5013,Shopwave,E-commerce,Abuja,FCT,2023,Series A,3934500,47,23433000,VC Fund,Male
+NG-5014,Healthwave,Healthtech,Abuja,FCT,2024,Series B,14991500,204,186204000,Corporate,Male
+NG-5015,Pipely,SaaS,Kano,Kano,2019,Series B,12425200,169,164943000,Accelerator,Male
+NG-5016,Shopstack,E-commerce,Lagos,Lagos,2024,Seed,233400,33,8950000,Crowdfunding,Male
+NG-5017,Afyahub,Healthtech,Lagos,Lagos,2022,Seed,1420600,13,2797000,Angel,Male
+NG-5018,Ajogo,Fintech,Abuja,FCT,2021,Series A,6807600,90,41006000,Corporate,Female
+NG-5019,Agrobase,Agritech,Lagos,Lagos,2019,Seed,419500,30,9237000,VC Fund,Male
+NG-5020,Soundbox,Media & Entertainment,Abuja,FCT,2016,Seed,1011600,21,3727000,Accelerator,Mixed (Co-founders)
+NG-5021,Cashup,Fintech,Lagos,Lagos,2022,Pre-seed,100700,6,6077000,VC Fund,Male
+NG-5022,Ajoio,Fintech,Ibadan,Oyo,2024,Pre-seed,95700,3,1114000,Corporate,Female
+NG-5023,Studylabs,Edtech,Lagos,Lagos,2021,Pre-seed,74700,6,1176000,Corporate,Male
+NG-5024,Deallabs,E-commerce,Lagos,Lagos,2023,Series A,7510000,33,16995000,VC Fund,Female
+NG-5025,Classly,Edtech,Abuja,FCT,2020,Seed,339400,13,5347000,Angel,Male
+NG-5026,Tutorhub,Edtech,Abuja,FCT,2019,Pre-seed,96300,8,1392000,Accelerator,Male
+NG-5027,Flickbox,Fintech,Enugu,Enugu,2022,Series A,2985600,83,40060000,VC Fund,Male
+NG-5028,Scholarpro,Edtech,Lagos,Lagos,2021,Seed,109400,18,4522000,Accelerator,Female
+NG-5029,Esusubox,Fintech,Ilorin,Kwara,2021,Series A,6915700,104,33836000,VC Fund,Male
+NG-5030,Monogo,Fintech,Lagos,Lagos,2019,Seed,539300,9,5845000,VC Fund,Male
+NG-5031,Payx,Fintech,Lagos,Lagos,2020,Pre-seed,49700,2,640000,VC Fund,Male
+NG-5032,Kudihub,Fintech,Lagos,Lagos,2021,Series A,7341000,98,14158000,Accelerator,Mixed (Co-founders)
+NG-5033,Braintech,Edtech,Lagos,Lagos,2017,Growth,47458000,302,159946000,Government Grant,Mixed (Co-founders)
+NG-5034,Viewio,Media & Entertainment,Ilorin,Kwara,2023,Series A,3587900,66,19721000,VC Fund,Female
+NG-5035,Hubpath,SaaS,Abuja,FCT,2020,Seed,10130200,33,26111000,VC Fund,Mixed (Co-founders)
+NG-5036,Paypro,Fintech,Lagos,Lagos,2020,Growth,19528300,499,160965000,Corporate,Male
+NG-5037,Baseio,SaaS,Lagos,Lagos,2021,Pre-seed,328900,10,4948000,Angel,Male
+NG-5038,Sellpro,E-commerce,Lagos,Lagos,2021,Series B,10501600,103,38040000,Angel,Male
+NG-5039,Deally,E-commerce,Ibadan,Oyo,2023,Pre-seed,75300,5,1981000,VC Fund,Mixed (Co-founders)
+NG-5040,Healthbase,Healthtech,Lagos,Lagos,2023,Series B,14491000,112,23597000,VC Fund,Female
+NG-5041,Streampro,Media & Entertainment,Lagos,Lagos,2024,Pre-seed,71000,4,1323000,Angel,Male
+NG-5042,Kudiwave,Fintech,Lagos,Lagos,2022,Pre-seed,79100,4,0,Accelerator,Male
+NG-5043,Vendpath,E-commerce,Ibadan,Oyo,2024,Seed,1400900,24,14598000,Crowdfunding,Female
+NG-5044,Beatly,Media & Entertainment,Lagos,Lagos,2022,Seed,527900,27,18290000,Angel,Female
+NG-5045,Tradebox,E-commerce,Lagos,Lagos,2024,Pre-seed,101900,7,7007000,VC Fund,Male
+NG-5046,Ajoup,Fintech,Abeokuta,Ogun,2018,Series A,3930600,112,17947000,Angel,Male
+NG-5047,Shipai,Logistics,Abuja,FCT,2022,Series B,14658600,71,11551000,Crowdfunding,Male
+NG-5048,Pulsewave,Healthtech,Lagos,Lagos,2018,Pre-seed,64400,2,267000,Corporate,Mixed (Co-founders)
+NG-5049,Kuditech,Fintech,Benin City,Edo,2023,Pre-seed,26600,3,2130000,Government Grant,Female
+NG-5050,Farmzone,Agritech,Ibadan,Oyo,2023,Seed,1496300,32,18390000,Accelerator,Male
+NG-5051,Healthtech,Healthtech,Uyo,Akwa Ibom,2018,Pre-seed,127500,4,2760000,Government Grant,Male
+NG-5052,Kudistack,Fintech,Ibadan,Oyo,2018,Series A,1514400,23,3634000,VC Fund,Female
+NG-5053,Studytech,Edtech,Lagos,Lagos,2022,Pre-seed,114700,5,890000,VC Fund,Male
+NG-5054,Stocklabs,E-commerce,Abuja,FCT,2020,Seed,152500,15,2533000,Angel,Mixed (Co-founders)
+NG-5055,Gopro,Logistics,Ibadan,Oyo,2024,Series A,6289400,91,50355000,VC Fund,Mixed (Co-founders)
+NG-5056,Kudibase,Fintech,Lagos,Lagos,2016,Series B,18403200,280,149158000,Crowdfunding,Male
+NG-5057,Cowryhub,Fintech,Lagos,Lagos,2015,Seed,689700,5,1497000,Crowdfunding,Mixed (Co-founders)
+NG-5058,Nodetech,SaaS,Abuja,FCT,2021,Pre-seed,131700,3,326000,Corporate,Mixed (Co-founders)
+NG-5059,Tradex,E-commerce,Abuja,FCT,2016,Series B,19919500,113,74667000,Angel,Male
+NG-5060,Playfy,Media & Entertainment,Lagos,Lagos,2023,Pre-seed,25200,12,6216000,Corporate,Mixed (Co-founders)
+NG-5061,Esusunow,Fintech,Uyo,Akwa Ibom,2017,Seed,298000,10,6666000,VC Fund,Male
+NG-5062,Cowryup,Fintech,Benin City,Edo,2020,Pre-seed,72300,11,0,Crowdfunding,Mixed (Co-founders)
+NG-5063,Basehub,SaaS,Lagos,Lagos,2021,Pre-seed,107500,5,1656000,VC Fund,Mixed (Co-founders)
+NG-5064,Payly,Fintech,Lagos,Lagos,2022,Pre-seed,11000,5,1159000,VC Fund,Male
+NG-5065,Buylabs,E-commerce,Abuja,FCT,2022,Series A,5115000,75,11923000,Angel,Mixed (Co-founders)
+NG-5066,Sellio,E-commerce,Lagos,Lagos,2022,Seed,696400,17,15277000,Accelerator,Mixed (Co-founders)
+NG-5067,Shownow,Media & Entertainment,Lagos,Lagos,2023,Series A,4407600,105,36350000,Angel,Mixed (Co-founders)
+NG-5068,Sellnow,E-commerce,Ibadan,Oyo,2015,Pre-seed,14800,12,7262000,Angel,Male
+NG-5069,Cashio,Fintech,Lagos,Lagos,2020,Seed,366700,32,12585000,VC Fund,Mixed (Co-founders)
+NG-5070,Sendpath,Logistics,Lagos,Lagos,2022,Seed,746000,35,3551000,Accelerator,Male
+NG-5071,Kudilabs,Fintech,Enugu,Enugu,2018,Pre-seed,15900,8,1709000,Angel,Male
+NG-5072,Pharmstack,Healthtech,Abuja,FCT,2021,Seed,9702400,28,9977000,Crowdfunding,Male
+NG-5073,Tuneup,Media & Entertainment,Benin City,Edo,2022,Series A,6339300,105,26521000,Angel,Male
+NG-5074,Skillng,Edtech,Benin City,Edo,2021,Pre-seed,66300,8,0,Government Grant,Male
+NG-5075,Cleango,Cleantech,Lagos,Lagos,2022,Series A,4050900,75,40554000,VC Fund,Female
+NG-5076,Stackpath,SaaS,Lagos,Lagos,2022,Series B,10289600,265,120413000,Angel,Female
+NG-5077,Dealstack,E-commerce,Kano,Kano,2018,Series A,1071300,21,4846000,VC Fund,Male
+NG-5078,Brainbase,Edtech,Lagos,Lagos,2024,Series A,43490100,43,15228000,Government Grant,Male
+NG-5079,Nairatech,Fintech,Abuja,FCT,2023,Pre-seed,75600,2,0,Accelerator,Male
+NG-5080,Voltng,Cleantech,Enugu,Enugu,2019,Seed,710300,9,4202000,Angel,Female
+NG-5081,Meditech,Healthtech,Lagos,Lagos,2023,Pre-seed,69800,12,0,VC Fund,Male
+NG-5082,Basezone,SaaS,Abuja,FCT,2022,Pre-seed,26000,6,1878000,Accelerator,Male
+NG-5083,Nairaly,Fintech,Lagos,Lagos,2018,Pre-seed,52100,12,6245000,VC Fund,Male
+NG-5084,Dawaio,Healthtech,Abuja,FCT,2023,Pre-seed,20300,6,4742000,Angel,Male
+NG-5085,Greenx,Agritech,Lagos,Lagos,2018,Growth,27298900,119,76289000,VC Fund,Female
+NG-5086,Nodenow,SaaS,Abuja,FCT,2022,Pre-seed,69900,10,6011000,VC Fund,Male
+NG-5087,Pagang,Fintech,Lagos,Lagos,2022,Seed,878700,5,448000,VC Fund,Mixed (Co-founders)
+NG-5088,Dochub,Healthtech,Ibadan,Oyo,2019,Series A,6419800,119,16738000,Accelerator,Mixed (Co-founders)
+NG-5089,Dashfy,Logistics,Lagos,Lagos,2018,Seed,1071700,25,7156000,Crowdfunding,Male
+NG-5090,Ajox,Fintech,Lagos,Lagos,2021,Seed,616400,25,4930000,Angel,Female
+NG-5091,Corego,SaaS,Lagos,Lagos,2018,Series B,11001600,287,33974000,VC Fund,Mixed (Co-founders)
+NG-5092,Nairang,Fintech,Kano,Kano,2020,Pre-seed,146800,12,9372000,Angel,Male
+NG-5093,Loadpro,Logistics,Lagos,Lagos,2016,Series B,11714300,75,10698000,Angel,Mixed (Co-founders)
+NG-5094,Carex,Healthtech,Lagos,Lagos,2021,Pre-seed,87900,6,4801000,Angel,Female
+NG-5095,Cowryng,Fintech,Lagos,Lagos,2023,Pre-seed,95700,10,3270000,VC Fund,Mixed (Co-founders)
+NG-5096,Linkly,SaaS,Uyo,Akwa Ibom,2017,Pre-seed,116200,2,1237000,Crowdfunding,Male
+NG-5097,Pipestack,SaaS,Lagos,Lagos,2015,Seed,777100,10,2275000,Angel,Male
+NG-5098,Loadbox,Logistics,Lagos,Lagos,2022,Pre-seed,109100,10,6423000,Angel,Male
+NG-5099,Healbase,Healthtech,Abuja,FCT,2022,Seed,895500,11,7747000,Government Grant,Male
+NG-5100,Buzzng,Media & Entertainment,Lagos,Lagos,2023,Seed,325300,18,5330000,Angel,Female
+NG-5101,Shoppath,E-commerce,Lagos,Lagos,2021,Series A,6289700,41,3602000,Government Grant,Male
+NG-5102,Linkzone,SaaS,Abeokuta,Ogun,2024,Pre-seed,122100,10,0,Accelerator,Male
+NG-5103,Kwiknow,Logistics,Lagos,Lagos,2023,Seed,1397000,8,4725000,Accelerator,Male
+NG-5104,Vendpro,E-commerce,Abeokuta,Ogun,2017,Seed,1232200,29,16500000,VC Fund,Female
+NG-5105,Stackhub,SaaS,Port Harcourt,Rivers,2018,Seed,569600,26,12929000,VC Fund,Male
+NG-5106,Buygo,E-commerce,Uyo,Akwa Ibom,2020,Pre-seed,74700,7,2288000,Accelerator,Male
+NG-5107,Loadfy,Logistics,Abuja,FCT,2018,Pre-seed,107700,8,2653000,Corporate,Mixed (Co-founders)
+NG-5108,Scholarx,Edtech,Lagos,Lagos,2019,Series B,11394500,75,21284000,Crowdfunding,Male
+NG-5109,Classzone,Edtech,Ibadan,Oyo,2017,Seed,877800,5,3012000,Angel,Mixed (Co-founders)
+NG-5110,Jumianow,E-commerce,Lagos,Lagos,2018,Series A,6131400,24,11204000,Angel,Male
+NG-5111,Fleethub,Logistics,Lagos,Lagos,2021,Seed,677500,5,1126000,VC Fund,Male
+NG-5112,Gonow,Logistics,Lagos,Lagos,2022,Series A,7195400,100,21029000,Angel,Male
+NG-5113,Syncio,SaaS,Lagos,Lagos,2021,Pre-seed,126800,4,3671000,Government Grant,Male
+NG-5114,Medistack,Healthtech,Ibadan,Oyo,2023,Series A,1693500,71,58652000,VC Fund,Male
+NG-5115,Sendzone,Logistics,Abuja,FCT,2023,Seed,1209500,22,4389000,Angel,Male
+NG-5116,Jumiabase,E-commerce,Abuja,FCT,2022,Series A,7194100,93,36486000,Angel,Male
+NG-5117,Payzone,Fintech,Abuja,FCT,2020,Pre-seed,116800,11,2034000,Accelerator,Female
+NG-5118,Esusugo,Fintech,Abuja,FCT,2022,Seed,1196800,17,4329000,VC Fund,Mixed (Co-founders)
+NG-5119,Linkup,SaaS,Lagos,Lagos,2017,Seed,199200,23,14564000,Government Grant,Male
+NG-5120,Esusung,Fintech,Ibadan,Oyo,2021,Seed,1005100,13,10168000,VC Fund,Male
+NG-5121,Tradeng,E-commerce,Lagos,Lagos,2021,Series A,6630700,79,34142000,VC Fund,Male
+NG-5122,Kwikbase,Logistics,Enugu,Enugu,2021,Series A,7838800,83,15147000,Corporate,Male
+NG-5123,Buybase,E-commerce,Port Harcourt,Rivers,2024,Series A,7217700,75,31286000,Corporate,Male
+NG-5124,Reellabs,Media & Entertainment,Uyo,Akwa Ibom,2023,Seed,195300,32,9850000,Government Grant,Mixed (Co-founders)
+NG-5125,Ajobase,Fintech,Lagos,Lagos,2024,Seed,1483400,8,4668000,VC Fund,Mixed (Co-founders)
+NG-5126,Sendstack,Logistics,Lagos,Lagos,2017,Pre-seed,106900,4,962000,Accelerator,Female
+NG-5127,Paybox,Fintech,Lagos,Lagos,2024,Series A,7829400,95,90266000,VC Fund,Female
+NG-5128,Kudigo,Fintech,Lagos,Lagos,2021,Seed,1355200,20,5307000,VC Fund,Female
+NG-5129,Kwikgo,Logistics,Lagos,Lagos,2015,Pre-seed,53000,7,1986000,VC Fund,Male
+NG-5130,Cartai,E-commerce,Lagos,Lagos,2017,Seed,444600,14,6025000,Angel,Mixed (Co-founders)
+NG-5131,Gostack,Logistics,Lagos,Lagos,2022,Growth,12965300,223,52236000,Government Grant,Mixed (Co-founders)
+NG-5132,Studyup,Edtech,Port Harcourt,Rivers,2024,Seed,903300,14,8094000,Government Grant,Female
+NG-5133,Pagax,Fintech,Abuja,FCT,2023,Pre-seed,92200,8,2428000,Accelerator,Male
+NG-5134,Monowave,Fintech,Ilorin,Kwara,2024,Seed,721200,31,11520000,Corporate,Male
+NG-5135,Nairafy,Fintech,Enugu,Enugu,2023,Seed,1414600,29,9972000,VC Fund,Female
+NG-5136,Flowapp,SaaS,Lagos,Lagos,2019,Series A,7206900,46,22263000,Angel,Female
+NG-5137,Harvestio,Agritech,Ibadan,Oyo,2021,Series A,3437700,26,6557000,Corporate,Male
+NG-5138,Pipepath,SaaS,Port Harcourt,Rivers,2020,Series B,19894500,283,135085000,VC Fund,Female
+NG-5139,Brainlabs,Edtech,Lagos,Lagos,2017,Seed,212900,31,12094000,Corporate,Female
+NG-5140,Flicktech,Fintech,Abuja,FCT,2023,Pre-seed,41600,3,1673000,VC Fund,Male
+NG-5141,Prepapp,Edtech,Benin City,Edo,2024,Series B,10816600,296,112313000,Angel,Male
+NG-5142,Tutorapp,Edtech,Lagos,Lagos,2015,Pre-seed,39400,5,543000,Angel,Male
+NG-5143,Flickng,Fintech,Lagos,Lagos,2021,Pre-seed,103000,7,4010000,VC Fund,Mixed (Co-founders)
+NG-5144,Voltfy,Cleantech,Lagos,Lagos,2023,Pre-seed,106000,10,0,Angel,Mixed (Co-founders)
+NG-5145,Pagatech,Fintech,Lagos,Lagos,2020,Pre-seed,49900,7,5277000,VC Fund,Male
+NG-5146,Scholarstack,Edtech,Lagos,Lagos,2018,Series A,39020900,35,23256000,Angel,Male
+NG-5147,Greenpro,Cleantech,Port Harcourt,Rivers,2018,Series A,1827800,108,54395000,Angel,Male
+NG-5148,Dropng,Logistics,Abuja,FCT,2018,Series A,5723400,92,28478000,VC Fund,Female
+NG-5149,Nairapath,Fintech,Kano,Kano,2024,Seed,226900,17,3392000,VC Fund,Male
+NG-5150,Ecostack,Cleantech,Abeokuta,Ogun,2022,Seed,306100,7,3707000,VC Fund,Male
+NG-5151,Sellgo,E-commerce,Abuja,FCT,2023,Series B,5540400,129,71313000,VC Fund,Male
+NG-5152,Cashng,Fintech,Kano,Kano,2019,Series A,7178800,72,41853000,Government Grant,Male
+NG-5153,Payup,Fintech,Lagos,Lagos,2017,Pre-seed,103400,8,3137000,Corporate,Male
+NG-5154,Pipego,SaaS,Ibadan,Oyo,2021,Seed,194500,21,10388000,Government Grant,Male
+NG-5155,Esusuapp,Fintech,Lagos,Lagos,2017,Series A,2608700,101,35018000,Crowdfunding,Male
+NG-5156,Nairaapp,Fintech,Uyo,Akwa Ibom,2023,Series A,4025500,82,13748000,VC Fund,Male
+NG-5157,Healtech,Healthtech,Lagos,Lagos,2022,Series A,5463800,63,7008000,VC Fund,Male
+NG-5158,Greengo,Cleantech,Lagos,Lagos,2022,Pre-seed,77700,12,4904000,Angel,Male
+NG-5159,Medify,Healthtech,Lagos,Lagos,2023,Pre-seed,74600,4,1065000,VC Fund,Male
+NG-5160,Linkbox,SaaS,Port Harcourt,Rivers,2021,Series A,7439800,83,23834000,Corporate,Male
+NG-5161,Esusulabs,Fintech,Lagos,Lagos,2018,Seed,1399800,35,11429000,VC Fund,Male
+NG-5162,Sendfy,Logistics,Kano,Kano,2024,Series A,5336000,34,11036000,VC Fund,Male
+NG-5163,Nairaup,Fintech,Port Harcourt,Rivers,2021,Seed,5136500,10,4654000,Angel,Female
+NG-5164,Movewave,Logistics,Abuja,FCT,2024,Seed,191200,26,22003000,Accelerator,Male
+NG-5165,Ajoly,Fintech,Lagos,Lagos,2023,Series B,11221700,238,79192000,Angel,Male
+NG-5166,Tutorpro,Edtech,Lagos,Lagos,2017,Pre-seed,66700,4,0,VC Fund,Male
+NG-5167,Streamapp,Media & Entertainment,Abuja,FCT,2023,Series B,6759100,280,36336000,VC Fund,Male
+NG-5168,Fleetgo,Logistics,Abeokuta,Ogun,2016,Seed,1415500,8,4369000,Corporate,Male
+NG-5169,Docio,Healthtech,Lagos,Lagos,2023,Series A,5461400,81,9731000,VC Fund,Mixed (Co-founders)
+NG-5170,Viewpath,Media & Entertainment,Lagos,Lagos,2018,Series A,5168600,27,7687000,Angel,Male
+NG-5171,Preptech,Edtech,Lagos,Lagos,2024,Pre-seed,57700,3,0,VC Fund,Male
+NG-5172,Ajozone,Fintech,Lagos,Lagos,2019,Pre-seed,140600,4,0,VC Fund,Male
+NG-5173,Basefy,SaaS,Abuja,FCT,2022,Pre-seed,100300,8,4599000,VC Fund,Mixed (Co-founders)
+NG-5174,Viewapp,Media & Entertainment,Lagos,Lagos,2023,Seed,1162600,5,3153000,Angel,Mixed (Co-founders)
+NG-5175,Synclabs,SaaS,Enugu,Enugu,2020,Series A,6997400,46,25865000,VC Fund,Male
+NG-5176,Pagaapp,Fintech,Ibadan,Oyo,2019,Pre-seed,112000,2,0,Corporate,Male
+NG-5177,Pharmnow,Healthtech,Lagos,Lagos,2023,Seed,1361900,24,6896000,Angel,Male
+NG-5178,Dealpro,E-commerce,Abuja,FCT,2019,Series A,7869800,59,37717000,Corporate,Male
+NG-5179,Linkwave,SaaS,Lagos,Lagos,2022,Seed,505100,22,3564000,Angel,Male
+NG-5180,Flickzone,Fintech,Lagos,Lagos,2023,Seed,1154600,23,3561000,Crowdfunding,Male
+NG-5181,Nodepath,SaaS,Abuja,FCT,2024,Pre-seed,135000,12,5920000,Angel,Female
+NG-5182,Streamnow,Media & Entertainment,Ilorin,Kwara,2023,Series B,11232700,156,80003000,Corporate,Female
+NG-5183,Basetech,SaaS,Lagos,Lagos,2019,Pre-seed,11300,8,1278000,VC Fund,Male
+NG-5184,Sendnow,Logistics,Uyo,Akwa Ibom,2018,Growth,25774300,107,41287000,Corporate,Mixed (Co-founders)
+NG-5185,Dealapp,E-commerce,Lagos,Lagos,2021,Pre-seed,86400,12,0,Angel,Mixed (Co-founders)
+NG-5186,Shopbase,E-commerce,Lagos,Lagos,2016,Series A,6480600,89,39868000,VC Fund,Female
+NG-5187,Cashfy,Fintech,Kano,Kano,2018,Series A,5510200,70,21277000,VC Fund,Female
+NG-5188,Cashwave,Fintech,Uyo,Akwa Ibom,2019,Seed,1411300,19,3568000,VC Fund,Mixed (Co-founders)
+NG-5189,Seedzone,Agritech,Uyo,Akwa Ibom,2018,Series A,1603000,117,53955000,Angel,Male
+NG-5190,Hubtech,SaaS,Lagos,Lagos,2018,Seed,262700,20,2735000,Corporate,Mixed (Co-founders)
+NG-5191,Payai,Fintech,Lagos,Lagos,2015,Pre-seed,141900,4,1897000,Corporate,Male
+NG-5192,Tradeapp,E-commerce,Kano,Kano,2023,Pre-seed,49300,2,525000,Corporate,Male
+NG-5193,Farmio,Agritech,Lagos,Lagos,2020,Seed,346100,17,6386000,VC Fund,Mixed (Co-founders)
+NG-5194,Eduhub,Edtech,Lagos,Lagos,2024,Series B,15038400,178,67764000,Corporate,Male
+NG-5195,Soundlabs,Media & Entertainment,Lagos,Lagos,2022,Series A,2480700,77,29689000,Crowdfunding,Male
+NG-5196,Esusupro,Fintech,Port Harcourt,Rivers,2023,Series A,3166500,120,37023000,Angel,Male
+NG-5197,Pagastack,Fintech,Lagos,Lagos,2017,Series A,6508200,99,85302000,Crowdfunding,Male
+NG-5198,Dealgo,E-commerce,Lagos,Lagos,2015,Seed,608100,33,5902000,VC Fund,Male
+NG-5199,Sellup,E-commerce,Lagos,Lagos,2023,Pre-seed,111600,2,1011000,VC Fund,Male
+NG-5200,Sunlabs,Cleantech,Lagos,Lagos,2021,Seed,1305700,21,9101000,VC Fund,Male
+NG-5201,Afyang,Healthtech,Lagos,Lagos,2022,Pre-seed,103500,9,3189000,VC Fund,Mixed (Co-founders)
+NG-5202,Questlabs,Edtech,Port Harcourt,Rivers,2020,Pre-seed,55100,2,562000,VC Fund,Mixed (Co-founders)
+NG-5203,Dawapro,Healthtech,Abuja,FCT,2020,Seed,872000,25,5510000,Government Grant,Mixed (Co-founders)
+NG-5204,Learnlabs,Edtech,Abuja,FCT,2018,Seed,817400,20,14303000,Angel,Mixed (Co-founders)
+NG-5205,Esusufy,Fintech,Abuja,FCT,2021,Seed,808800,33,14859000,Angel,Mixed (Co-founders)
+NG-5206,Docpath,Healthtech,Kano,Kano,2021,Seed,556400,33,16035000,VC Fund,Male
+NG-5207,Pipeng,SaaS,Lagos,Lagos,2018,Seed,279200,25,11094000,VC Fund,Male
+NG-5208,Showhub,Media & Entertainment,Abuja,FCT,2022,Seed,310900,26,18875000,Government Grant,Male
+NG-5209,Questpro,Edtech,Lagos,Lagos,2019,Seed,1039100,10,2480000,Angel,Male
+NG-5210,Vitapath,Healthtech,Ibadan,Oyo,2022,Pre-seed,102800,8,1857000,Accelerator,Male
+NG-5211,Loadzone,Logistics,Lagos,Lagos,2022,Seed,261400,26,2848000,Angel,Male
+NG-5212,Buyai,E-commerce,Abuja,FCT,2021,Seed,948200,20,4675000,VC Fund,Male
+NG-5213,Cloudng,SaaS,Abuja,FCT,2019,Pre-seed,136600,8,0,Corporate,Male
+NG-5214,Stockai,E-commerce,Lagos,Lagos,2022,Series B,15811700,225,152434000,VC Fund,Female
+NG-5215,Pharmhub,Healthtech,Lagos,Lagos,2022,Seed,244200,26,2344000,Corporate,Male
+NG-5216,Droppro,Logistics,Enugu,Enugu,2016,Seed,371100,12,3487000,VC Fund,Male
+NG-5217,Kudix,Fintech,Lagos,Lagos,2021,Series A,1250100,75,54848000,VC Fund,Female
+NG-5218,Shipbox,Logistics,Benin City,Edo,2022,Pre-seed,58300,8,3608000,Angel,Mixed (Co-founders)
+NG-5219,Flickgo,Fintech,Abuja,FCT,2020,Pre-seed,79400,5,3452000,VC Fund,Male
+NG-5220,Seedpro,Agritech,Lagos,Lagos,2021,Series A,1868200,81,27595000,Accelerator,Male
+NG-5221,Syncng,SaaS,Lagos,Lagos,2018,Growth,19065400,295,245799000,VC Fund,Male
+NG-5222,Kudibox,Fintech,Lagos,Lagos,2017,Pre-seed,117700,9,4471000,VC Fund,Male
+NG-5223,Harvestwave,Agritech,Kano,Kano,2020,Seed,922900,34,9446000,Accelerator,Male
+NG-5224,Cartup,E-commerce,Abeokuta,Ogun,2021,Seed,306600,19,5309000,Angel,Male
+NG-5225,Pulsebase,Healthtech,Enugu,Enugu,2021,Pre-seed,95900,4,0,Accelerator,Male
+NG-5226,Movetech,Logistics,Ilorin,Kwara,2019,Pre-seed,29700,3,0,Government Grant,Female
+NG-5227,Pharmapp,Healthtech,Kano,Kano,2024,Seed,604900,29,3882000,Angel,Male
+NG-5228,Studyx,Edtech,Abuja,FCT,2024,Series A,4941200,99,30355000,Crowdfunding,Male
+NG-5229,Coreng,SaaS,Abeokuta,Ogun,2023,Seed,639500,21,7949000,Corporate,Male
+NG-5230,Carebase,Healthtech,Ibadan,Oyo,2019,Seed,661000,34,12674000,Corporate,Male
+NG-5231,Cashtech,Fintech,Lagos,Lagos,2024,Seed,236300,31,7903000,Angel,Male
+NG-5232,Cartio,E-commerce,Port Harcourt,Rivers,2022,Series A,5741400,60,19606000,Angel,Female
+NG-5233,Healx,Healthtech,Lagos,Lagos,2021,Pre-seed,109500,4,423000,VC Fund,Male
+NG-5234,Dealio,E-commerce,Lagos,Lagos,2018,Seed,1294800,28,13298000,Angel,Female
+NG-5235,Cartzone,E-commerce,Uyo,Akwa Ibom,2022,Pre-seed,65300,6,0,Corporate,Male
+NG-5236,Cowrypro,Fintech,Lagos,Lagos,2021,Pre-seed,27800,12,4179000,Angel,Female
+NG-5237,Esusupath,Fintech,Abuja,FCT,2024,Pre-seed,17600,5,2516000,Corporate,Female
+NG-5238,Edubase,Edtech,Lagos,Lagos,2022,Seed,116000,14,3683000,Crowdfunding,Female
+NG-5239,Sellapp,E-commerce,Port Harcourt,Rivers,2019,Seed,1031700,30,11493000,VC Fund,Mixed (Co-founders)
+NG-5240,Movehub,Logistics,Lagos,Lagos,2020,Seed,1420600,5,1516000,Accelerator,Female
+NG-5241,Caretech,Healthtech,Lagos,Lagos,2022,Series A,1835500,115,78703000,Angel,Male
+NG-5242,Docnow,Healthtech,Lagos,Lagos,2023,Growth,36052400,149,41121000,Government Grant,Male
+NG-5243,Flickai,Fintech,Lagos,Lagos,2019,Pre-seed,32500,10,4608000,Angel,Mixed (Co-founders)
+NG-5244,Fleetlabs,Logistics,Lagos,Lagos,2022,Series A,7580800,104,58058000,Angel,Male
+NG-5245,Payfy,Fintech,Benin City,Edo,2023,Series B,14827400,157,49000000,Government Grant,Male
+NG-5246,Dashnow,Logistics,Lagos,Lagos,2024,Seed,1478300,20,17125000,Angel,Mixed (Co-founders)
+NG-5247,Renewx,Cleantech,Lagos,Lagos,2022,Pre-seed,117400,7,3539000,VC Fund,Mixed (Co-founders)
+NG-5248,Dealhub,E-commerce,Abuja,FCT,2022,Series A,3053100,116,35568000,VC Fund,Mixed (Co-founders)
+NG-5249,Studygo,Edtech,Lagos,Lagos,2022,Seed,987200,27,6975000,Crowdfunding,Mixed (Co-founders)
+NG-5250,Farmbox,Agritech,Port Harcourt,Rivers,2019,Seed,751300,24,9193000,Accelerator,Male
+NG-5251,Movex,Logistics,Uyo,Akwa Ibom,2021,Series A,6428500,108,14889000,Angel,Male
+NG-5252,Shoply,E-commerce,Ibadan,Oyo,2024,Series A,1909500,63,39444000,Angel,Mixed (Co-founders)
+NG-5253,Ajowave,Fintech,Abuja,FCT,2022,Series A,4286500,38,12880000,Angel,Male
+NG-5254,Ajotech,Fintech,Lagos,Lagos,2022,Series A,6659000,101,35445000,Accelerator,Female
+NG-5255,Buynow,E-commerce,Abuja,FCT,2021,Pre-seed,75000,6,4591000,VC Fund,Male
+NG-5256,Buyly,E-commerce,Lagos,Lagos,2020,Pre-seed,148000,8,2555000,Government Grant,Mixed (Co-founders)
+NG-5257,Tradepath,E-commerce,Lagos,Lagos,2023,Series B,15365400,115,26712000,Accelerator,Mixed (Co-founders)
+NG-5258,Kudiai,Fintech,Lagos,Lagos,2021,Series B,18186500,257,86351000,VC Fund,Mixed (Co-founders)
+NG-5259,Cashnow,Fintech,Lagos,Lagos,2018,Seed,190800,15,3861000,Accelerator,Male
+NG-5260,Ajofy,Fintech,Lagos,Lagos,2024,Pre-seed,55300,4,1574000,Crowdfunding,Male
+NG-5261,Syncfy,SaaS,Ibadan,Oyo,2022,Pre-seed,27300,11,1493000,Angel,Female
+NG-5262,Payapp,Fintech,Lagos,Lagos,2016,Series A,7207300,76,68334000,Corporate,Mixed (Co-founders)
+NG-5263,Playly,Media & Entertainment,Ibadan,Oyo,2018,Growth,35110400,474,137536000,VC Fund,Male
+NG-5264,Shipgo,Logistics,Lagos,Lagos,2018,Seed,905300,28,9287000,Angel,Male
+NG-5265,Buzzapp,Media & Entertainment,Enugu,Enugu,2019,Pre-seed,46500,9,3197000,VC Fund,Male
+NG-5266,Scholarng,Edtech,Lagos,Lagos,2017,Seed,1428900,32,13940000,VC Fund,Mixed (Co-founders)
+NG-5267,Sowstack,Agritech,Ibadan,Oyo,2021,Series A,7802100,89,57635000,Crowdfunding,Mixed (Co-founders)
+NG-5268,Ajong,Fintech,Lagos,Lagos,2019,Series A,3502400,69,38269000,Crowdfunding,Female
+NG-5269,Studystack,Edtech,Benin City,Edo,2017,Growth,13579800,227,119860000,VC Fund,Male
+NG-5270,Cleanzone,Cleantech,Abuja,FCT,2016,Pre-seed,50800,3,1696000,Accelerator,Male
+NG-5271,Pharmfy,Healthtech,Lagos,Lagos,2019,Pre-seed,16400,5,2236000,VC Fund,Mixed (Co-founders)
+NG-5272,Learnbase,Edtech,Abuja,FCT,2018,Pre-seed,93000,8,741000,Crowdfunding,Male
+NG-5273,Vendai,E-commerce,Lagos,Lagos,2021,Seed,154600,13,4236000,Accelerator,Male
+NG-5274,Tradego,E-commerce,Lagos,Lagos,2024,Pre-seed,113500,7,0,VC Fund,Mixed (Co-founders)
+NG-5275,Landnow,Agritech,Lagos,Lagos,2019,Series A,2911800,61,32785000,Angel,Mixed (Co-founders)
+NG-5276,Monobox,Fintech,Lagos,Lagos,2024,Pre-seed,91000,11,3502000,VC Fund,Male
+NG-5277,Nairazone,Fintech,Lagos,Lagos,2023,Pre-seed,83300,4,972000,Government Grant,Male
+NG-5278,Flickfy,Fintech,Lagos,Lagos,2018,Pre-seed,112100,7,5890000,Accelerator,Mixed (Co-founders)
+NG-5279,Greenly,Agritech,Ibadan,Oyo,2019,Pre-seed,77300,2,0,Government Grant,Male
+NG-5280,Healthx,Healthtech,Lagos,Lagos,2020,Seed,565100,19,4387000,Corporate,Male
+NG-5281,Kuding,Fintech,Ibadan,Oyo,2020,Series B,13609100,257,86839000,Accelerator,Mixed (Co-founders)
+NG-5282,Flickpro,Fintech,Lagos,Lagos,2022,Pre-seed,66500,4,2274000,Corporate,Male
+NG-5283,Carepro,Healthtech,Lagos,Lagos,2022,Series A,1110700,58,39606000,VC Fund,Male
+NG-5284,Viewai,Media & Entertainment,Ibadan,Oyo,2017,Seed,187000,6,4729000,Accelerator,Female
+NG-5285,Nairalabs,Fintech,Lagos,Lagos,2020,Series A,5861900,95,22757000,Accelerator,Male
+NG-5286,Skillx,Edtech,Abuja,FCT,2018,Pre-seed,52300,3,1025000,Angel,Male
+NG-5287,Sellwave,E-commerce,Ibadan,Oyo,2023,Series A,6417100,48,5845000,Accelerator,Mixed (Co-founders)
+NG-5288,Flowng,SaaS,Lagos,Lagos,2023,Series A,4377000,87,74643000,Accelerator,Mixed (Co-founders)
+NG-5289,Shippro,Logistics,Lagos,Lagos,2019,Pre-seed,99800,3,1593000,VC Fund,Male
+NG-5290,Healthstack,Healthtech,Abuja,FCT,2023,Series A,4927600,104,22630000,Angel,Mixed (Co-founders)
+NG-5291,Pulsepro,Healthtech,Enugu,Enugu,2023,Seed,1194300,33,14871000,Crowdfunding,Male
+NG-5292,Nairanow,Fintech,Lagos,Lagos,2017,Seed,977400,20,14887000,VC Fund,Mixed (Co-founders)
+NG-5293,Shipnow,Logistics,Lagos,Lagos,2018,Seed,426200,22,14890000,Accelerator,Male
+NG-5294,Dawahub,Healthtech,Port Harcourt,Rivers,2022,Series A,1464400,58,17425000,Corporate,Male
+NG-5295,Scholarup,Edtech,Ibadan,Oyo,2021,Pre-seed,67100,3,497000,Angel,Male
+NG-5296,Playbase,Media & Entertainment,Lagos,Lagos,2020,Growth,25342500,222,155712000,Angel,Male
+NG-5297,Pagaio,Fintech,Lagos,Lagos,2022,Seed,806000,30,10224000,VC Fund,Mixed (Co-founders)
+NG-5298,Esusux,Fintech,Abuja,FCT,2017,Seed,504200,34,19596000,Angel,Male
+NG-5299,Stockwave,E-commerce,Enugu,Enugu,2022,Seed,915800,9,3636000,VC Fund,Male
+NG-5300,Beatpro,Media & Entertainment,Ibadan,Oyo,2020,Pre-seed,116500,3,0,Angel,Mixed (Co-founders)
+NG-5301,Vitabox,Healthtech,Lagos,Lagos,2019,Pre-seed,125000,2,925000,Angel,Male
+NG-5302,Martapp,E-commerce,Port Harcourt,Rivers,2022,Series A,7767600,64,19640000,Government Grant,Male
+NG-5303,Cowrybox,Fintech,Kano,Kano,2020,Pre-seed,37700,11,2794000,Angel,Mixed (Co-founders)
+NG-5304,Baseng,SaaS,Abuja,FCT,2023,Seed,501800,10,6273000,VC Fund,Male
+NG-5305,Pagaai,Fintech,Abuja,FCT,2019,Seed,6178100,34,8393000,VC Fund,Mixed (Co-founders)
+NG-5306,Pagaup,Fintech,Kano,Kano,2017,Pre-seed,103700,3,630000,VC Fund,Male
+NG-5307,Healthfy,Healthtech,Lagos,Lagos,2023,Seed,167800,32,5986000,Angel,Male
+NG-5308,Flickup,Fintech,Lagos,Lagos,2022,Pre-seed,89800,5,1333000,Corporate,Male
+NG-5309,Nodex,SaaS,Abuja,FCT,2022,Pre-seed,20600,7,1328000,Accelerator,Male
+NG-5310,Cashapp,Fintech,Lagos,Lagos,2022,Series A,2682400,86,6498000,Accelerator,Male
+NG-5311,Kudily,Fintech,Lagos,Lagos,2017,Pre-seed,41800,3,1485000,VC Fund,Male
+NG-5312,Dawago,Healthtech,Lagos,Lagos,2020,Growth,24533000,147,57519000,Corporate,Mixed (Co-founders)
+NG-5313,Monostack,Fintech,Lagos,Lagos,2019,Series A,1980400,74,31375000,Accelerator,Mixed (Co-founders)
+NG-5314,Fleetzone,Logistics,Lagos,Lagos,2021,Series B,15687200,218,179066000,VC Fund,Mixed (Co-founders)
+NG-5315,Braingo,Edtech,Lagos,Lagos,2018,Series B,18779300,211,39514000,Accelerator,Male
+NG-5316,Cloudbase,SaaS,Enugu,Enugu,2021,Seed,727000,31,8045000,Angel,Male
+NG-5317,Tunebox,Media & Entertainment,Lagos,Lagos,2020,Growth,16965500,112,59133000,Corporate,Male
+NG-5318,Learnio,Edtech,Lagos,Lagos,2024,Series A,4222000,77,22526000,VC Fund,Mixed (Co-founders)
+NG-5319,Kudiio,Fintech,Lagos,Lagos,2019,Pre-seed,89800,10,7344000,Crowdfunding,Male
+NG-5320,Movezone,Logistics,Lagos,Lagos,2015,Series A,5038400,84,14439000,VC Fund,Mixed (Co-founders)
+NG-5321,Tradeup,E-commerce,Ibadan,Oyo,2021,Seed,490000,33,14834000,VC Fund,Male
+NG-5322,Tutornow,Edtech,Lagos,Lagos,2024,Pre-seed,111500,5,2385000,VC Fund,Mixed (Co-founders)
+NG-5323,Skilllabs,Edtech,Abuja,FCT,2023,Series B,19585200,66,26993000,Crowdfunding,Male
+NG-5324,Pharmpro,Healthtech,Lagos,Lagos,2020,Series B,7343400,94,23741000,Angel,Male
+NG-5325,Pipehub,SaaS,Lagos,Lagos,2015,Series A,5394400,81,59966000,VC Fund,Male
+NG-5326,Buytech,E-commerce,Lagos,Lagos,2023,Series A,2914100,65,20141000,VC Fund,Male
+NG-5327,Stockstack,E-commerce,Abeokuta,Ogun,2023,Seed,552400,32,11327000,VC Fund,Male
+NG-5328,Cowryx,Fintech,Lagos,Lagos,2023,Pre-seed,106700,3,1234000,Angel,Mixed (Co-founders)
+NG-5329,Cashlabs,Fintech,Abuja,FCT,2016,Pre-seed,117600,9,3538000,Angel,Male
+NG-5330,Pagapro,Fintech,Abuja,FCT,2021,Seed,347700,15,3442000,VC Fund,Mixed (Co-founders)
+NG-5331,Kwikpath,Logistics,Lagos,Lagos,2023,Series B,5519500,285,126313000,Accelerator,Mixed (Co-founders)
+NG-5332,Movely,Logistics,Lagos,Lagos,2023,Series A,2325200,64,40371000,Angel,Female
+NG-5333,Tradepro,E-commerce,Ibadan,Oyo,2020,Seed,667900,34,19697000,Angel,Male
+NG-5334,Classpro,Edtech,Lagos,Lagos,2024,Series A,6047200,53,39842000,Government Grant,Male
+NG-5335,Esusuai,Fintech,Abuja,FCT,2018,Seed,1402300,26,14422000,VC Fund,Male
+NG-5336,Sendgo,Logistics,Kano,Kano,2020,Growth,41866100,334,88261000,Accelerator,Male
+NG-5337,Stockbase,E-commerce,Port Harcourt,Rivers,2022,Pre-seed,50600,5,1067000,Angel,Male
+NG-5338,Cowryzone,Fintech,Lagos,Lagos,2023,Series A,4440300,36,21263000,Corporate,Male
+NG-5339,Esusuup,Fintech,Benin City,Edo,2016,Seed,919300,10,2622000,VC Fund,Female
+NG-5340,Esusuwave,Fintech,Uyo,Akwa Ibom,2022,Seed,1415300,8,1874000,Angel,Female
+NG-5341,Careup,Healthtech,Lagos,Lagos,2020,Seed,1219800,25,4627000,Government Grant,Mixed (Co-founders)
+NG-5342,Questng,Edtech,Lagos,Lagos,2020,Seed,1049700,30,24872000,VC Fund,Mixed (Co-founders)
+NG-5343,Stockgo,E-commerce,Uyo,Akwa Ibom,2020,Series A,4490300,104,20430000,Angel,Female
+NG-5344,Dealbase,E-commerce,Lagos,Lagos,2021,Pre-seed,114600,4,3211000,Angel,Male
+NG-5345,Healthly,Healthtech,Port Harcourt,Rivers,2021,Series A,5172600,49,25093000,VC Fund,Male
+NG-5346,Syncpro,SaaS,Lagos,Lagos,2022,Pre-seed,66000,8,2228000,Crowdfunding,Mixed (Co-founders)
+NG-5347,Cowrystack,Fintech,Lagos,Lagos,2021,Pre-seed,17200,9,0,Angel,Male
+NG-5348,Monozone,Fintech,Benin City,Edo,2017,Series A,5191900,109,37515000,Angel,Male
+NG-5349,Scholarlabs,Edtech,Kano,Kano,2019,Series B,15659200,239,74963000,Crowdfunding,Male
+NG-5350,Beattech,Media & Entertainment,Benin City,Edo,2017,Seed,164200,15,6562000,VC Fund,Female
+NG-5351,Kudiup,Fintech,Ibadan,Oyo,2020,Seed,190900,32,7346000,VC Fund,Male
+NG-5352,Nodebox,SaaS,Enugu,Enugu,2018,Pre-seed,687000,6,1692000,VC Fund,Male
+NG-5353,Vitahub,Healthtech,Lagos,Lagos,2015,Pre-seed,18600,9,7210000,Corporate,Male
+NG-5354,Paytech,Fintech,Lagos,Lagos,2023,Pre-seed,117900,4,1055000,Corporate,Male
+NG-5355,Martai,E-commerce,Lagos,Lagos,2019,Pre-seed,74800,12,0,Angel,Male
+NG-5356,Scholarbox,Edtech,Lagos,Lagos,2024,Pre-seed,146300,6,1671000,Crowdfunding,Female
+NG-5357,Soundzone,Media & Entertainment,Lagos,Lagos,2021,Pre-seed,46700,4,1577000,VC Fund,Male
+NG-5358,Pharmng,Healthtech,Port Harcourt,Rivers,2024,Seed,987900,6,1281000,VC Fund,Male
+NG-5359,Cowryly,Fintech,Lagos,Lagos,2024,Growth,48733000,181,128525000,VC Fund,Male
+NG-5360,Landio,Agritech,Lagos,Lagos,2024,Series B,18297100,139,61574000,VC Fund,Mixed (Co-founders)
+NG-5361,Kwikly,Logistics,Abuja,FCT,2023,Seed,458100,13,5248000,VC Fund,Male
+NG-5362,Gobase,Logistics,Lagos,Lagos,2022,Series A,7312900,91,33103000,VC Fund,Male
+NG-5363,Monofy,Fintech,Lagos,Lagos,2024,Pre-seed,61300,3,1385000,Crowdfunding,Male
+NG-5364,Dropbox,Logistics,Lagos,Lagos,2018,Series A,2329500,115,80361000,VC Fund,Mixed (Co-founders)
+NG-5365,Buzzx,Media & Entertainment,Uyo,Akwa Ibom,2022,Pre-seed,72600,4,2117000,Angel,Mixed (Co-founders)
+NG-5366,Paypath,Fintech,Ibadan,Oyo,2024,Series A,2978700,55,33426000,Accelerator,Mixed (Co-founders)
+NG-5367,Afyapath,Healthtech,Lagos,Lagos,2018,Pre-seed,124600,11,2429000,Angel,Male
+NG-5368,Sowtech,Agritech,Lagos,Lagos,2017,Growth,12627700,202,80695000,Corporate,Mixed (Co-founders)
+NG-5369,Harvestly,Agritech,Kano,Kano,2018,Pre-seed,123500,11,0,VC Fund,Male
+NG-5370,Kudify,Fintech,Lagos,Lagos,2023,Series B,8616300,226,66345000,Angel,Male
+NG-5371,Flickio,Fintech,Lagos,Lagos,2022,Seed,657200,25,7835000,VC Fund,Male
+NG-5372,Learnnow,Edtech,Lagos,Lagos,2021,Seed,262100,34,11576000,Accelerator,Male
+NG-5373,Soilhub,Agritech,Enugu,Enugu,2019,Series A,6123600,51,17947000,VC Fund,Male
+NG-5374,Dashtech,Logistics,Abuja,FCT,2022,Seed,898700,30,16262000,Angel,Male
+NG-5375,Viewup,Media & Entertainment,Lagos,Lagos,2021,Series A,4439800,61,14682000,Angel,Mixed (Co-founders)
+NG-5376,Prepzone,Edtech,Lagos,Lagos,2019,Series A,4377100,84,41986000,VC Fund,Female
+NG-5377,Buybox,E-commerce,Lagos,Lagos,2022,Series B,15004000,280,152606000,VC Fund,Mixed (Co-founders)
+NG-5378,Tradeai,E-commerce,Enugu,Enugu,2016,Seed,880200,22,2688000,Angel,Male
+NG-5379,Sendio,Logistics,Ibadan,Oyo,2023,Seed,566300,7,1702000,Accelerator,Female
+NG-5380,Dawanow,Healthtech,Lagos,Lagos,2019,Series B,8126600,158,52597000,Government Grant,Mixed (Co-founders)
+NG-5381,Scholarapp,Edtech,Abuja,FCT,2021,Seed,1327300,26,11067000,Government Grant,Male
+NG-5382,Monopro,Fintech,Lagos,Lagos,2023,Seed,103400,23,7273000,Angel,Male
+NG-5383,Dealbox,E-commerce,Abuja,FCT,2024,Seed,339000,12,5737000,VC Fund,Male
+NG-5384,Tradezone,E-commerce,Kano,Kano,2020,Seed,316400,23,3403000,Corporate,Male
+NG-5385,Voltapp,Cleantech,Abuja,FCT,2020,Series A,5548900,116,30106000,Angel,Male
+NG-5386,Pagaly,Fintech,Lagos,Lagos,2019,Seed,1125800,27,15440000,Government Grant,Mixed (Co-founders)
+NG-5387,Buyio,E-commerce,Ibadan,Oyo,2023,Series A,1864800,96,36935000,Government Grant,Mixed (Co-founders)
+NG-5388,Landx,Agritech,Kano,Kano,2022,Series A,6588000,57,20817000,Angel,Male
+NG-5389,Vibego,Media & Entertainment,Lagos,Lagos,2019,Seed,372500,29,5387000,Accelerator,Male
+NG-5390,Pulsezone,Healthtech,Lagos,Lagos,2021,Seed,1484000,35,2998000,Angel,Mixed (Co-founders)
+NG-5391,Farmai,Agritech,Abuja,FCT,2018,Pre-seed,66100,9,2318000,Government Grant,Mixed (Co-founders)
+NG-5392,Pagahub,Fintech,Lagos,Lagos,2015,Seed,1288400,13,9322000,Accelerator,Mixed (Co-founders)
+NG-5393,Kudipro,Fintech,Abuja,FCT,2021,Seed,132100,33,17331000,Angel,Female
+NG-5394,Cashzone,Fintech,Lagos,Lagos,2021,Seed,1244400,33,9791000,Corporate,Male
+NG-5395,Streamly,Media & Entertainment,Lagos,Lagos,2020,Series A,2812100,120,38944000,Crowdfunding,Mixed (Co-founders)
+NG-5396,Cowrypath,Fintech,Abeokuta,Ogun,2021,Pre-seed,53500,8,2221000,VC Fund,Male
+NG-5397,Nairaio,Fintech,Lagos,Lagos,2019,Series B,9218600,283,93518000,VC Fund,Male
+NG-5398,Skilltech,Edtech,Port Harcourt,Rivers,2021,Seed,1171400,22,15121000,VC Fund,Male
+NG-5399,Reelnow,Media & Entertainment,Lagos,Lagos,2016,Pre-seed,68900,3,2108000,Angel,Female
+NG-5400,Sellzone,E-commerce,Ibadan,Oyo,2023,Pre-seed,69900,10,7410000,Corporate,Mixed (Co-founders)
