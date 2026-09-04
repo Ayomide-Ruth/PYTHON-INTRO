@@ -1,8 +1,9 @@
-# Enter a name for the library using the input() function
-library_ = input("Enter the name of the library: ").title()
 
 # Create an empty library list 
 library_list = []
+
+# Enter a name for the library using the input() function
+library_ = input("Enter the name of the library: ").title()
 
 # Enter a name for the book title and author using the input() function
 # title_ = input("What is the title of the book?").title()
@@ -11,17 +12,60 @@ library_list = []
 # Define a function named add_book(library, title, author, available=True)
 # adds a book (as a dict) to the library list
 # Set available to True
-# available_ = True
+available_ = True
 
 def add_book(library, title, author, available = True):
-        book = {"Library": library, "Book Title": title,"Author": author, "Available" : available}
-        library_list.append(book)
-        return(library_list)
+    book = {"Library": library_, "Book Title": title_,"Author": author_, "Available" : available_}
+    library_list.append(book)
+    return (library_list)
 
+# Ask for 4 books
 for i in range(4):
-  title_ = input("What is the title of the book?").title()
-  author_ = input("Who is the author of the book?").title()
-  add_book(library_, title_, author_, available = True)
+    title_ = input("What is the title of the book? ").title()
+    author_ = input("Who is the author of the book? ").title()
+    library_list = add_book(library_, title_, author_, available = True)
+
+print(library_list)
+
+# library_list = add_book(library_, title_, author_, available = True)
+# print(library_list)
+
+
+
+# def add_book(library, title, author, available = True):
+#     library_list = []
+#     book = {"Library": library, "Book Title": title,"Author": author, "Available" : available_}
+#     library_list.append(book)
+
+#     for i in range(4):
+#         title_ = input("What is the title of the book?").title()
+#         author_ = input("Who is the author of the book?").title()
+#         add_book(library_, title_, author_, available = True)
+
+#     return(library_list)
+
+# library_list = add_book(library_, title_, author_, available = True)
+# print(library_list)
+
+
+# Mr. Ayub solution
+# def add_book(library, title, author, available = True):
+#    library_list = []
+#    library_list.append({"Library": library, "Book Title": title,"Author": author, "Available" : available})
+#    return library_list
+
+
+
+# add_book(, title_, author_, available = True)
+
+# print("=" * 40)
+# print("LIBRARY DETAILS")
+# print("=" * 40)
+# print()
+# print(library_list)
+
+
+
 
 # Define a function named search_book(library, title)
 # Searches by title and returns the book dict or None
@@ -36,6 +80,9 @@ def search_book(library, title):
             return(f"Found: {book_search_}")
     else:
         return(f"{book_search_}, Not found")
+
+book_search = search_book(library_, title_)
+print(book_search)
 
 
 # Define a function named borrow_book(library, title)
@@ -54,7 +101,10 @@ def borrow_book(library, title):
                 return (book_borrow_, "has been borrowed")
     else:
         return(book_borrow_, "is not found")
-    
+
+book_borrow = borrow_book(library_, book_borrow_)
+print(book_borrow)
+
 
 # Define a function named return_book(library, title) 
 # marks the book as available again; returns a status message
@@ -74,6 +124,10 @@ def return_book(library, title, available = True):
                         return(book_return_, "was not the book borrowed")
     else:
         return (book_return_, "does not exist in the library")
+
+book_return = return_book(library_, book_return_)
+# print(library_list)
+print(book_return)
 
 
 # Define a function named display_catalogue(library)

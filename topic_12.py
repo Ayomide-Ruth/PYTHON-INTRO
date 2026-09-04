@@ -1,4 +1,4 @@
-from quiz_data import get_questions
+rom quiz_data import get_questions
 import random, datetime
 
 quiz_questions = get_questions()
