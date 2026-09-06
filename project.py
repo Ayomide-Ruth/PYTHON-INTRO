@@ -1,16 +1,14 @@
-# Create an empty list of scores assigned to the variable, scores_list
-
 scores_list= []
 
 # Use for loop to get the scores 5 times
 # Use the .append() method to append the scores to the empty score list
 
 for score in range(5):
-    scores = float(input("Input your score: "))
+    scores = float(input("What is your exam score? "))
     scores_list.append(scores)
 
 print(scores_list)
-print()
+
 
 # Define a function named calculate_average
 def calculate_average(scores):
@@ -19,7 +17,7 @@ def calculate_average(scores):
     # Use for loop to create your loop in order to sum the scores
     for score in scores:
         total += score
-    # Calculate average and assign it to a variable named average
+    # Calculate avergae and assign it to a variable named average
     average = float(total / len(scores))
     return(average)
 
@@ -51,8 +49,11 @@ print()
 
 name = str(input("What is your full name? "))
 def generate_report(name, scores):
+    # average = calculate_average(scores)
+    # grade = get_grade(average)
     print(f"Student name:", name,
           "\n""Average:", average,"\n",grade)
 
-generate_report(name, scores_list)
+generate_report(name, scores)
 print()
+generate_report(name, scores)
