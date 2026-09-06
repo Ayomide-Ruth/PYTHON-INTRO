@@ -21,7 +21,7 @@ for i in range (2):
     book_borrow_ = input("What book do you want to borrow? ").title()
     book_borrowed = borrow_book(library_, book_borrow_)
 
-print(book_borrowed)
+print(book_borrow)
 
 #print(borrow_book(library_, book_borrow_))
 
