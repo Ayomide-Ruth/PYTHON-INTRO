@@ -77,11 +77,11 @@ def add_book(library, title, author, available = True):
 # Function definition
 def search_book(library, title):
     for dictionary in library_list:
-        if book_search_ == dictionary.get("Book Title"):
+        if title == dictionary.get("Book Title"):
         #dictionary.get("Book Title") == book_search_:
-            return(f"Found: {book_search_}")
+            return(f"Found: {title}")
     else:
-        return(f"{book_search_}, Not found")
+        return(f"{title}, Not found")
 
 # book_search = search_book(library_, title_)
 # print(book_search)
@@ -92,21 +92,24 @@ def search_book(library, title):
 
 # book_borrow_ = input("What book do you want to borrow? ").title()
 
-book_borrowed = []
+# book_borrowed = []
 
 def borrow_book(library, title):
     for dictionary in library_list:
         if title == dictionary.get("Book Title"):
-            if title.get("Available") == True:
+            if dictionary.get("Available") == True:
 # To update the book availablity status and mark the book as unavailable if found and available, we use
-                title["Available"] = False
+                dictionary["Available"] = False
                 return(title, "is available to borrow")
             else:
                 return (title, "has been borrowed")
-        else:
-            return(title, "is not a book in the library")
-    return()
+    else:
+        return(title, "is not a book in the library")
+    # borrowed_books.append(title)
+    # return(borrowed_books)
+    # return(library_list)
     # print("Borrowing Complete!")
+
     # borrowed_book = {"Library": library, "Book Title": title}
     # book_borrowed.append(borrowed_book)
     # return(book_borrowed)
@@ -120,19 +123,20 @@ def borrow_book(library, title):
 
 # book_return_ = input("What book are you returning?").title()
 
-def return_book(library, title, available = True):
+def return_book(library, title):
     for dictionary in library_list:
-        if book_return_ == dictionary.get("Book Title"):
+        if title == dictionary.get("Book Title"):
             if dictionary.get("Available") == False:
 # To update the returned book availablity status and mark the book as available, we use
                 dictionary["Available"] = True
-                return(f"{book_return_} has been returned and is available to be borrowed.")
+                return(f"{title} has been returned and is available to be borrowed.")
             else:
-                if book_return_ == dictionary.get("Book Title"):
-                    if dictionary.get("Available") == True:
-                        return(book_return_, "was not the book borrowed")
-    else:
-        return (book_return_, "does not exist in the library")
+                # if dictionary.get("Available") == True
+                    return(title, "was not the book borrowed")
+        else:
+            return (title, "does not exist in the library")
+
+
 
 # book_return = return_book(library_, book_return_)
 # # print(library_list)
@@ -141,7 +145,7 @@ def return_book(library, title, available = True):
 
 # Define a function named display_catalogue(library)
 # That iterates and prints all books with their availability status
-library_ = "Miva"
+# library_ = "Miva"
 
 def display_catalogue(library):
     for dictionary in library_list:

@@ -1,3 +1,17 @@
+# Create an empty list of scores assigned to the variable, scores_list
+
+scores_list= []
+
+# Use for loop to get the scores 5 times
+# Use the .append() method to append the scores to the empty score list
+
+for score in range(5):
+    scores = float(input("Input your score: "))
+    scores_list.append(scores)
+
+print(scores_list)
+print()
+
 # Define a function named calculate_average
 def calculate_average(scores):
     # Assign total to an empty value 0
@@ -5,12 +19,17 @@ def calculate_average(scores):
     # Use for loop to create your loop in order to sum the scores
     for score in scores:
         total += score
-    # Calculate avergae and assign it to a variable named average
+    # Calculate average and assign it to a variable named average
     average = float(total / len(scores))
     return(average)
 
+average = calculate_average(scores_list)
+print(f"Average score of {scores_list} is {average}")
+print()
+
 # Define a function get_grade(average) that takes an average score and returns a letter grade
 # where A = 90–100, B = 75–89, C = 60–74, F = below 60
+
 def get_grade(average):
     # Use conditional statement to assign letter grade to score
     if 90 <= average <= 100:
@@ -22,15 +41,19 @@ def get_grade(average):
     else:
         return("Grade F")
 
+grade = get_grade(average)
+print(f"Your grade is {grade}")
+print()
+
 # generate_report(name, scores)
 # That takes a student name and a list of scores
 # then prints the student's name, their average, and their letter grade in a readable format.
+
+name = str(input("What is your full name? "))
+print()
 def generate_report(name, scores):
-    average = calculate_average(scores)
-    grade = get_grade(average)
     print(f"Student name:", name,
           "\n""Average:", average,"\n",grade)
 
-generate_report("Bolu Ojo",  [71, 84, 92, 65, 79])
+generate_report(name, scores_list)
 print()
-generate_report("Shade Kai", [73, 86, 91, 68, 77])

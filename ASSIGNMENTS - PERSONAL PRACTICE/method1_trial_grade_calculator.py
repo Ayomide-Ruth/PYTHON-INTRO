@@ -1,5 +1,5 @@
 # Create a list of scores
-scores = [55, 87, 67, 54, 77]
+scores = [71, 84, 92, 65, 79]
 print (f"Scores = {scores}")
 print()
 
@@ -46,6 +46,6 @@ def generate_report(name, scores):
     print(f"Student name:", name,
           "\n""Average:", average,"\n",grade)
 
-generate_report("Bolu Ojo", [54, 90, 33, 47, 60])
+generate_report("Bolu Ojo",  [71, 84, 92, 65, 79])
 print()
-generate_report("Shade Kai", [65, 45, 70, 76, 88])
+generate_report("Shade Kai", [73, 86, 91, 68, 77])
