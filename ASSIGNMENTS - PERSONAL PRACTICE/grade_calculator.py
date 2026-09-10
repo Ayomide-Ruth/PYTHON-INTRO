@@ -33,4 +33,4 @@ def generate_report(name, scores):
 
 generate_report("Bolu Ojo",  [71, 84, 92, 65, 79])
 print()
-generate_report("Shade Kai", [73, 86, 91, 68, 77])
+generate_report("Shade Kai", [53, 26, 11, 28, 37])
