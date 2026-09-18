@@ -1,4 +1,4 @@
 # The code below does not allow the created .env file to be pushed to github
-.env/
+.env
 rag\.env
 rag\DAMA_DMBOK2_Body_of_Knowledge_compressed.pdf
