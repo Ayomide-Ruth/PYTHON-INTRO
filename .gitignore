@@ -2,3 +2,6 @@
 .env
 rag\.env
 rag\DAMA_DMBOK2_Body_of_Knowledge_compressed.pdf
+__pycache__
+myvenv
+myenv
